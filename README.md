@@ -1,0 +1,2 @@
+# muthoot_ready_money_privacy_policy
+Privacy policy
