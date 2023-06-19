@@ -1,3 +1,7 @@
+
+Privacy Policy  
+----------------
+
 ### Muthoot Ready Money Privacy Policy
 This privacy policy is to provide information to you, our client, on how your personal data is gathered and used within our practice, and the circumstances in which we may share it with third parties.
 We use your Personal Information only for furnishing and improving the App. By using the app Muthoot Ready Money, you accord to the collection and use of data in accordance with this policy.
