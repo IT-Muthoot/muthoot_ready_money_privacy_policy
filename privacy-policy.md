@@ -43,5 +43,4 @@ We set aside the right to update or modify our Privacy Policy at any time and yo
 If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our App.
 ### Contact Us
 If you have any questions about this Privacy Policy, please contact us.
-Phone: +91- 484 669 0363
 email : itcoblr@muthootgroup.com
