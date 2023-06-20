@@ -38,7 +38,7 @@ No,we are not using cookies.
 ### HOW DO WE PROTECT YOUR INFORMATION?
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information
 ### Changes to This Privacy Policy
-This Privacy Policy is effective as of 19nth June 2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this App.
+This Privacy Policy is effective as of 20th June 2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this App.
 We set aside the right to update or modify our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this app will constitute your acknowledgment of the modifications and your consent to abide by and be bound by the modified Privacy Policy.
 If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our App.
 ### Contact Us
