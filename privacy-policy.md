@@ -12,10 +12,10 @@ Personal data collected directly from you:
 
 This type of data is the personal data you provide us. You consent to provide us access to such personal data through your continued use of the Services or through interaction over the Platform. This includes:
  
-Identity and Profile-related Data: This includes personal information concerning the personal or material circumstances of an identified or identifiable User, e.g. name,  gender, date of birth, password, password validation, marital status, family details, employment verification information and other similar details shared via the Platform.
-Contact data: This includes your email addresses, phone numbers, and postal address.
-KYC data: In connection with the Services and your use of the Platform, we may also require you to share, or we may collect identification documents issued by government or other authorities to you, including details of or pertaining to Aadhaar, PAN card, voter ID, and ration card.
-Financial data: This will include your past credit history, income details, details of loans issued, or otherwise applied for through the Platform, payments and repayments thereof, your bank account details and bank account statements.
+* Identity and Profile-related Data: This includes personal information concerning the personal or material circumstances of an identified or identifiable User, e.g. name,  gender, date of birth, password, password validation, marital status, family details, employment verification information and other similar details shared via the Platform.
+* Contact data: This includes your email addresses, phone numbers, and postal address.
+* KYC data: In connection with the Services and your use of the Platform, we may also require you to share, or we may collect identification documents issued by government or other authorities to you, including details of or pertaining to Aadhaar, PAN card, voter ID, and ration card.
+* Financial data: This will include your past credit history, income details, details of loans issued, or otherwise applied for through the Platform, payments and repayments thereof, your bank account details and bank account statements.
  
 Personal data collected through your use of the Platform and from your device
 
@@ -43,4 +43,6 @@ We set aside the right to update or modify our Privacy Policy at any time and yo
 If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our App.
 ### Contact Us
 If you have any questions about this Privacy Policy, please contact us.
-email : itcoblr@muthootgroup.com
+
+Phone: 080-35392825
+Email : plcustomersupport@muthootgroup.com
